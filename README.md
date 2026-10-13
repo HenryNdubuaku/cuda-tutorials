@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Alt text"/>
 </p>
 
-# From zero to hero CUDA for accelerated maths and machine learning.
+# Zero to hero CUDA for accelerated maths and machine learning: Extended from my bachelors dissertation (2016).
 
 ![License](https://img.shields.io/github/license/hmunachi/cuda-repo?style=flat-square) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com//company/80434055) [![Twitter](https://img.shields.io/twitter/follow/hmunachii?style=social)](https://twitter.com/hmunachii)
 
